@@ -1,0 +1,52 @@
+---
+!reference
+id: calculus.diff
+title: Differential
+subtitle: This is about the differential
+content:
+  - |
+    # Differentiation
+
+    some text here
+    and more $x^2$ there.
+
+  - |
+    ## Example1
+
+    Contains `some code` in backticks.
+---
+!plot
+id: plot.2d.sin
+title: 2d plot
+abstract:
+  Some text explaining what's going on
+code: |
+    x = var('x')
+    y = 21+x
+    z = 6 * y + x
+    plot(x * sin(x+y+z), (x, -10, 10))
+---
+!example
+id: sage.example1
+title: A very simple example
+abstract:
+  Some text explaining what's going on
+content:
+  - |
+    # This is a very simple example
+
+    The first paragraph starts of with some simple text.
+
+    The second paragraph is a bit more **complex** and _powerful_.
+
+  - !code
+      input: |
+        x = var('x')
+        diff(x^2/(1-x^3), x)
+      output:
+        3*x^4/(x^3 - 1)^2 - 2*x/(x^3 - 1)
+
+  - This is another paragraph, below a code without doctest
+
+  - !code
+      input: (2+3+4)^5
