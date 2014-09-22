@@ -1,0 +1,18 @@
+!tutorial
+id: tutorial.intro
+content:
+   - |
+     # General introduction to plotting
+
+     This is how to plot.
+---
+!plot
+id: plot.2d.sin
+title: 2d plot
+abstract:
+  Some text explaining what's going on
+code: |
+    x = var('x')
+    y = 21+x
+    z = 6 * y + x
+    plot(x * sin(x+y+z), (x, -10, 10))
