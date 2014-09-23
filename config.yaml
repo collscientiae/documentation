@@ -1,6 +1,6 @@
 # Central configuration file for the "NewDoc" Sage Documentation
 title: Sage Mathematical Software Documentation
-version: 0.0.0
+version: 0.0.1
 modules:
     - sage
     - sage_plotting
