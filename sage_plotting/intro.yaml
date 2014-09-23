@@ -1,9 +1,8 @@
 !tutorial
 id: tutorial.intro
+title: General introduction to plotting
 content:
    - |
-     # General introduction to plotting
-
      This is how to plot.
 ---
 !plot
