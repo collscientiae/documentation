@@ -11,5 +11,3 @@ modules:
 remapping:
     - test: { notsage : sage, alsothis: sage }
 
-framework:
-    directory: framework
