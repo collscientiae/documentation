@@ -1,6 +1,9 @@
----
+#!reference
+#id: calculus.diff
+#title: duplicate document
+#---
 !reference
-id: calculus.diff
+id: calc.diff
 title: Differential
 subtitle: This is about the differential
 content:

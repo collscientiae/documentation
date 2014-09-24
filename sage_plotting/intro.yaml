@@ -8,9 +8,9 @@ content:
 !plot
 id: plot.2d.sin
 title: 2d plot
-abstract:
+content:
   Some text explaining what's going on
-code: |
+plot: |
     x = var('x')
     y = 21+x
     z = 6 * y + x

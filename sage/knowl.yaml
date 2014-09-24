@@ -6,3 +6,10 @@ content:
       This is a Knowl: knowl[[knowl.intro]]
 
       And here with a custom title: knowl[[knowl.intro|my custom title]].
+---
+!tutorial
+id: knowl.part2
+title: Introduction to Knowls
+content:
+    - |
+      pointing to sage: knowl[[sage::calc.diff]]
