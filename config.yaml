@@ -11,3 +11,4 @@ modules:
 remapping:
     - test: { notsage : sage, alsothis: sage }
 
+google_analytics: UA-66100-13
