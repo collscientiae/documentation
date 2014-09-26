@@ -7,7 +7,7 @@ content:
       The idea is that local #namespace prefixes are changed via the global `config.yaml`.
 
     - |
-      Knowl in sage: knowl[[notsage::calculus.diff]]
+      Knowl in sage: knowl[[notsage/calculus.diff]]
 
-      And also here knowl[[alsothis::calculus.diff]] where both of them
+      And also here knowl[[alsothis/calculus.diff]] where both of them
       should be `calculus.diff`.

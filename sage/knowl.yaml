@@ -12,4 +12,4 @@ id: knowl.part2
 title: Introduction to Knowls
 content:
     - |
-      pointing to sage: knowl[[sage::calc.diff]]
+      pointing to sage: knowl[[sage/calc.diff]]

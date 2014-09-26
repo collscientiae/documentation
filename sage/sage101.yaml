@@ -6,17 +6,15 @@
 id: calc.diff
 title: Differential
 subtitle: This is about the differential
-content:
-  - |
+content: |
     # Differentiation
 
     some text here about #differentiation.
     and more $x^2$ there.
 
-  - |
     ## Example1
 
-    Contains `some code` in backticks.
+    Contains `some code` in backticks as an #Example.
 ---
 !example
 id: sage.example1
