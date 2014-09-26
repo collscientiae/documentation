@@ -29,7 +29,8 @@ content:
 
     The first paragraph starts of with some simple text.
 
-    The second paragraph is a bit more **complex** and _powerful_.
+    The second paragraph is a bit more **complex** and _powerful_,
+    explaining #plotting and more.
 
   - !code
       input: |

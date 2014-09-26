@@ -3,13 +3,14 @@ id: tutorial.intro
 title: General introduction to plotting
 content:
    - |
-     This is how to plot.
+     This is how to #plot.
 ---
 !plot
 id: plot.2d.sin
 title: 2d plot
 content:
-  Some text explaining what's going on
+  - |
+    Some text explaining what's going on in #plotting.
 plot: |
     x = var('x')
     y = 21+x
