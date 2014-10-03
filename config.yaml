@@ -3,4 +3,4 @@ title: Sage Mathematical Software Documentation
 version: 0.0.1
 
 remapping:
-    - test: { notsage : sage, alsothis: sage }
+    test: { notsage : sage, alsothis: sage }
