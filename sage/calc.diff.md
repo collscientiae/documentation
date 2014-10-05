@@ -20,3 +20,5 @@ example::
     8 * x
     
 This was easy, wasn't it?
+
+And now a link[[sage/knowl.example|neat link to a knowl example]] ... 
