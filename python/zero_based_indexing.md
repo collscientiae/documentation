@@ -4,8 +4,8 @@ subtitle: This small tutorial explains zero-based indexing in Python,
 abstract:
     This is some abstract text on top.
 seealso:
-    la.matrix Matrix
-    la.vector
+    intro
+    loops
 
 ## Why?
 
