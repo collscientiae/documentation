@@ -4,3 +4,5 @@ version: 0.0.1
 
 remapping:
     test: { notsage : sage, alsothis: sage }
+
+google_analytics: UA-66100-13

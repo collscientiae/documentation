@@ -1,14 +1,12 @@
 type: example
-title: A very simple example
+title: Sage 101
 abstract:
-    Some text explaining what's going on
+    Some simple explanations about Sage
 seealso:
     plotting
 
-# Simple Example
-
 The first paragraph starts of with some simple #example text
-about {{ sage }}.
+about the {{ sage }}.
 
 ## Complex Example
 

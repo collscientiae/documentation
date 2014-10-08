@@ -1,2 +1,8 @@
 name: Sage Documentation
 description: Documentation for <a href="http://www.sagemath.org/">Sage</a>.
+
+# this configuration is inserted into the global
+# space of variables for the jinja2 templating engine.
+
+sage: Sage Mathematical Software System
+sage_url: http://www.sagemath.org
