@@ -9,4 +9,10 @@ include[[includeme]]
 
 start of line include[[includeme]] after the token is here.
 
+cell::
+
+    x = 1
+    y = 2*x + 3
+    print x, y
+
 EOF
