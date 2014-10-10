@@ -9,7 +9,7 @@ authors:
 some text here about #differentiation as an #example
 and more $x^2$ there.
 
-## Example
+## Example {: label='example' }
 
 Contains `some code` in backticks as an #Example.
 

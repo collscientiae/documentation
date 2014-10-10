@@ -1,4 +1,5 @@
-title: Formulas
+title: Formuläs
+subtitle: with unäcode täßt
 
 Formula inside `$$` on separate line:
 
