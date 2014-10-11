@@ -13,17 +13,20 @@ about the {{ sage }}.
 The second paragraph is a bit more **complex** and _powerful_,
 explaining #plotting and more.
 
-example::
+sage::
 
-    >>> x = var('x')
-    >>> diff(x^2/(1-x^3), x)
+    x = var('x')
+    diff(x^2/(1-x^3), x)
+    
+should display
+
     3*x^4/(x^3 - 1)^2 - 2*x/(x^3 - 1)
 
 ## Another Example
 
 This is another paragraph, below a code without doctest
 
-example::
+sage::
 
-    >>> (2+3+4)^5
+    (2+3+4)^5
     

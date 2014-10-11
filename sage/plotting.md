@@ -3,7 +3,7 @@ type: tutorial
 
 A plot showing how to #plot a plot.
 
-plot::
+sage::
 
     x = var('x')
     y = 21+x
