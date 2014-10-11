@@ -13,11 +13,18 @@ and more $x^2$ there.
 
 Contains `some code` in backticks as an #Example.
 
-example::
+sage::
 
-    sage: ex = 4 * x^2
-    sage: ex.diff(x)
-    8 * x
+    ex = 4 * x - x^2
+    ex = ((9 - ex)^3).expand()
+    show(latex(ex))
+    print "differentiated gives:"
+    show(latex(ex.diff(x)))
+    
+    
+should give
+
+    ... 
     
 This was easy, wasn't it?
 

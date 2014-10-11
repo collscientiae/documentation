@@ -2,6 +2,11 @@
 title: Sage Mathematical Software Documentation
 version: 0.0.1
 
+# the list of modules, the ordering is retained and parts can be disabled.
+# in the future, there might be the possibility to set some configurations here
+# or to override the documentation module specific configuration.
+# this is useful in such a case, where the module is developed independently but
+# some settings need to change to fit into the overall context. (e.g. remapping)
 modules:
   - sage
   - python
@@ -9,6 +14,7 @@ modules:
   - test
 
 remapping:
-    test: { notsage : sage, alsothis: sage }
+  test:
+    { notsage : sage, alsothis: sage }
 
 google_analytics: UA-66100-13

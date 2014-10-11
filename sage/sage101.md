@@ -8,7 +8,7 @@ seealso:
 The first paragraph starts of with some simple #example text
 about the {{ sage }}.
 
-## Complex Example
+## Simple Example
 
 The second paragraph is a bit more **complex** and _powerful_,
 explaining #plotting and more.
