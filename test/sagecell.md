@@ -15,6 +15,16 @@ python::
 
 which should print `2 9 18` and `z = 4`.
 
+knowl[[sage/knowl.interact|interactive mode]]:
+
+python::
+
+    @interact
+    def _(x = slider(-10, 10, .1, 5),
+          y = slider(-10, 10, .1, 5)):
+        z = 2*x + 5*y + 1
+        print x, y, z, x*y*z
+
 ## Sage Mode
 
 sage::
