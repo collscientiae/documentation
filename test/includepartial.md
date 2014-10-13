@@ -18,6 +18,11 @@ gives ''lim_{y -> \infty} (x-2)^2 / sqrt(y+3) -> 0''
 
 paragraph 1 of part 2/1
 
+python::
+
+    from random import randint
+    print "cell test", randint(1, 1e6)
+
 paragraph 2 of part 2/1
 
 # this is the third part {: label='part3' }

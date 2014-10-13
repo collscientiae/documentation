@@ -9,7 +9,7 @@ include[[includeme]]
 
 start of line include[[includeme]] after the token is here.
 
-cell::
+python::
 
     x = 1
     y = 2*x + 3
