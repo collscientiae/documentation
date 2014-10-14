@@ -4,7 +4,7 @@ title: Circular Includes 3
 
 Including level 1 again:
 
-include[[includes.circular1]]
+include[includes.circular1]
 
 EOF Level 3
 
