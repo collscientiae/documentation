@@ -1,4 +1,4 @@
-title: 2d plotting
+title: 2D Plotting
 type: tutorial
 
 A plot showing how to #plot a plot.
