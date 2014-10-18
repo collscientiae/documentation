@@ -1,5 +1,6 @@
 type: reference
 title: Python Lists
+subtitle: What is a <code>list</code> in Python?
 
 something about *python* lists:
 

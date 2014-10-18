@@ -1,4 +1,7 @@
 title: Several paragraphs for partial inclusion
+subtitle: Test paragraphs for partial includes
+seealso:
+    includes.includeme
 
 # this is the first part {: label='part1' }
 

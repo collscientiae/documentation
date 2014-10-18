@@ -1,6 +1,6 @@
 type: example
 title: Sage 101
-abstract:
+subtitle:
     Some simple explanations about Sage
 seealso:
     plotting

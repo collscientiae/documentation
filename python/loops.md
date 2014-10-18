@@ -1,5 +1,6 @@
 type: reference
 title: Python Loops
+subtitle: Loops are an important control structure
 
 something about *python* loops
 

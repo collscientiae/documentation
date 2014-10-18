@@ -1,6 +1,7 @@
 title: SageCell Tests
-abstract: testing various modes and the functionality of such a
-        sage cell
+subtitle: testing various modes and the functionality of such a
+          sage cell
+abstract: abstract text
       
 ## Python Mode (block has an empty line)
 

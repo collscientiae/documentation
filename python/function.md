@@ -1,7 +1,7 @@
 title: Python Function
+subtitle: What is a Python function? 
 
 A callable mapping from input arguments to zero, one or more output arguments.
-
 
 python::
 

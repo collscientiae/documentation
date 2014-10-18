@@ -1,4 +1,5 @@
 title: 2D Plotting
+subtitle: plotting in two dimensions
 type: tutorial
 
 A plot showing how to #plot a plot.
