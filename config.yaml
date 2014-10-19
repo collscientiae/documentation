@@ -18,3 +18,9 @@ remapping:
     { notsage : sage, alsothis: sage }
 
 google_analytics: UA-66100-13
+
+footer:
+  - title: Sage Mathematical Software System
+    href: http://sagemath.org
+  - title: Apache 2.0 Licensed
+    href: http://www.apache.org/licenses/LICENSE-2.0.html
