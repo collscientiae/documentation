@@ -11,7 +11,7 @@ modules:
   - sage
   - python
   - linux
-  - collscientiae
+  - CollScientiae   # camel-case on purpose, also for testing
   - test
 
 remapping:
