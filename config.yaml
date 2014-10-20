@@ -1,5 +1,5 @@
 # Central configuration file for the "CollScientiae" Sage Documentation
-title: Sage Mathematical Software Documentation
+title: CollScientiae Demo Documentation
 version: 0.0.1
 
 # the list of modules, the ordering is retained and parts can be disabled.
@@ -11,6 +11,7 @@ modules:
   - sage
   - python
   - linux
+  - collscientiae
   - test
 
 remapping:
@@ -20,7 +21,9 @@ remapping:
 google_analytics: UA-66100-13
 
 footer:
+  - title: CollScientiae
+    href:  https://github.com/collscientiae
   - title: Sage Mathematical Software System
-    href: http://sagemath.org
+    href:  http://sagemath.org
   - title: Apache 2.0 Licensed
-    href: http://www.apache.org/licenses/LICENSE-2.0.html
+    href:  http://www.apache.org/licenses/LICENSE-2.0.html
