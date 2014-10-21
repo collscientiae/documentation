@@ -1,8 +1,8 @@
 type: tutorial
-title: Introduction to Knowls
+title: Example Knowls
 
-This is an #example for pointing via a link
-to the sage module: link[sage/calc.diff].
+This is an #example for  a knowl
+to the sage module: knowl[sage/calc.diff].
 
-(which should link back to here, of course ;-)
+and here knowl[sage101|another one with a long custom title]. 
 
