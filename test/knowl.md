@@ -5,7 +5,7 @@ This is a knowl: knowl[includes.includeme].
 
 Partial include knowl: knowl[includes.includepartial part2] (part 2)
 
-Partial include knowl: knowl[includes.includepartial part3 1] (part 3, limit 2)
+Partial include knowl: knowl[includes.includepartial part3 2] (part 3, limit 2)
 
 Eu pro suas eruditi docendi.
 Vel at sint quaerendum, no eam quem instructior definitiones.
