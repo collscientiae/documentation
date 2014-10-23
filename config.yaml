@@ -18,7 +18,7 @@ remapping:
   test:
     { notsage : sage, alsothis: sage }
 
-google_analytics: UA-66100-13
+google_analytics: UA-5245376-10
 
 footer:
   - title: CollScientiae
