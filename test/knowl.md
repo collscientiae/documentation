@@ -1,7 +1,7 @@
 title: Testing Knowls
 subtitle: knowl test with some lorem ipsum
 
-This is a knowl: knowl[includes.includeme].
+This is an #example knowl: knowl[includes.includeme].
 
 Partial include knowl: knowl[includes.includepartial part2] (part 2)
 
