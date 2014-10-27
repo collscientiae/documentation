@@ -2,6 +2,7 @@ title: SageCell Tests
 subtitle: testing various modes and the functionality of such a
           sage cell
 abstract: abstract text
+sort: 3
       
 ## Python Mode (block has an empty line)
 

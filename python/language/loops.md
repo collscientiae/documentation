@@ -4,6 +4,8 @@ subtitle: Loops are an important control structure
 seealso:
     language.controlstructures
     language.function
+sort: 21
+group: Structure
 
 something about *python* loops
 

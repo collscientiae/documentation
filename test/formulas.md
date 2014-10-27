@@ -1,6 +1,7 @@
 title: Formula Test
 subtitle: Testing formulas with some Unicode twist
 
+
 # $$
 
 Formula inside `$$` on separate line:

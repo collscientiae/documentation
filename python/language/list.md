@@ -1,4 +1,6 @@
 title: List
+sort: 4
+group: Data
 
 A list is an ordered knowl[concept.collection] of knowl[concept.object|objects].
 

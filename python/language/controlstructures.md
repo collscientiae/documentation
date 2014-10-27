@@ -2,6 +2,8 @@ title: Control Structures
 subtitle: if/then/else control structures
 seealso:
     language.loops
+group: Structure
+sort: 10
     
 # Simple `if` example
 

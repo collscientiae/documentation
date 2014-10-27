@@ -1,5 +1,6 @@
 title: Function
 subtitle: What is a function in Python? 
+sort: 20
 
 A callable mapping from input arguments to zero, one or more output arguments. An #example is this:
 

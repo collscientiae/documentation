@@ -9,6 +9,6 @@ Knowl in sage: knowl[notsage/calc.diff]
 And also here knowl[alsothis/calc.diff] where both of them
 should be `calculus.diff`.
 
-## links
+## Links
 
 And now a link[sage/knowl.example|neat link to a knowl example] ... 

@@ -1,5 +1,6 @@
 title: Testing Knowls
 subtitle: knowl test with some lorem ipsum
+sort: -0.5
 
 This is an #example knowl: knowl[includes.includeme].
 
