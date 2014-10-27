@@ -1,9 +1,9 @@
 type: reference
-title: Python Loops
+title: Loop
 subtitle: Loops are an important control structure
 seealso:
-    conditionals
-    function
+    language.controlstructures
+    language.function
 
 something about *python* loops
 

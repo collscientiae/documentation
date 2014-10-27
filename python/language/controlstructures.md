@@ -1,7 +1,7 @@
-title: Conditionals
+title: Control Structures
 subtitle: if/then/else control structures
 seealso:
-    loops
+    language.loops
     
 # Simple `if` example
 
@@ -16,7 +16,7 @@ python::
         
 # If in a Loop
 
-This combines a knowl[loops iteration|iteration loop] with an `if`:
+This combines a knowl[language.loops iteration|iteration loop] with an `if`:
  
 python::
 

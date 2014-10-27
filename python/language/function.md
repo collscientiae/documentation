@@ -1,5 +1,5 @@
-title: Python Function
-subtitle: What is a Python function? 
+title: Function
+subtitle: What is a function in Python? 
 
 A callable mapping from input arguments to zero, one or more output arguments. An #example is this:
 

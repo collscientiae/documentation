@@ -5,7 +5,7 @@ abstract:
     This is some abstract text on top.
 seealso:
     intro
-    loops
+    language.loops
 
 ## Why?
 
