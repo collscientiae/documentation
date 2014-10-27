@@ -11,7 +11,7 @@ about the {{ sage }}.
 ## Simple Example
 
 The second paragraph is a bit more **complex** and _powerful_,
-explaining #plotting and more.
+explaining #[plot plotting] and more.
 
 sage::
 
