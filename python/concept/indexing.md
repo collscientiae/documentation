@@ -1,6 +1,6 @@
-title: Zero-based Indexing
+title: Indexing
 subtitle: This small tutorial explains zero-based indexing in Python,
-          Sage and similar programming languages
+          Sage and similar programming languages.          
 abstract:
     This is some abstract text on top.
 seealso:
