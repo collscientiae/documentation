@@ -8,8 +8,8 @@ version: 0.0.1
 # this is useful in such a case, where the module is developed independently but
 # some settings need to change to fit into the overall context. (e.g. remapping)
 modules:
-  - sage
   - python
+  - sage
   - linux
   - CollScientiae   # camel-case on purpose, also for testing
   - test
