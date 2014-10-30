@@ -1,5 +1,6 @@
 title: CollScientiae
 tags: intro
+sort: -1
 subtitle: Introduction to CollScientiae
 abstract: Ideas and visions behind the documentation system "CollScientiae"
 seealso:
