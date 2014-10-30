@@ -20,7 +20,7 @@ Alia assentior sententiae et eam, id solum aeterno vis.
 Quo ad labore dictas repudiandae, ad ferri elitr audire eam.
 Cu alterum mandamus indoctum vim, in mea doming everti democritum, his ei inani disputando.
 Nam vivendo intellegebat id, ubique iriure feugait ex quo.
-Primis lobortis indoctum in mea, knowl[knowl|hinc decore] an vel.
+Primis lobortis indoctum in mea, knowl[knowl.knowl|hinc decore] an vel.
 Nec illud corrumpit ad, graeco omittantur cu mei.
 Pri ea nemore prompta complectitur, duo sale vidit ex.
 Vix dicant fabulas utroque ex, id pertinax signiferumque ius, nominati maiestatis omittantur has in.
@@ -37,7 +37,7 @@ Alia assentior sententiae et eam, id solum aeterno vis.
 Quo ad labore dictas repudiandae, ad ferri elitr audire eam.
 Cu alterum mandamus indoctum vim, in mea doming everti democritum, his ei inani disputando.
 Nam vivendo intellegebat id, ubique iriure feugait ex quo.
-Primis lobortis indoctum in mea, knowl[knowl|hinc decore] an vel.
+Primis lobortis indoctum in mea, knowl[knowl.knowl|hinc decore] an vel.
 Nec illud corrumpit ad, graeco omittantur cu mei.
 Pri ea nemore prompta complectitur, duo sale vidit ex.
 Vix dicant fabulas utroque ex, id pertinax signiferumque ius, nominati maiestatis omittantur has in.
