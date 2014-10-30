@@ -1,5 +1,6 @@
 title: Testing Includes
 subtitle: Testing the include[ ... ] statement
+sort: -.5
 
 Below, there should be the content of link[includes.includeme].
 

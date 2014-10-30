@@ -17,7 +17,7 @@ python::
 
 which should print `2 9 18` and `z = 4`.
 
-knowl[sage/knowl.interact|interactive mode]:
+knowl[test/knowl.interact|interactive mode]:
 
 python::
 
