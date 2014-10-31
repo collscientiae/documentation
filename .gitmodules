@@ -1,0 +1,3 @@
+[submodule "lmfdb"]
+	path = lmfdb
+	url = git@github.com:collscientiae/lmfdb-knowls.git

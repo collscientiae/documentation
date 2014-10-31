@@ -9,8 +9,9 @@ version: 0.0.1
 # some settings need to change to fit into the overall context. (e.g. remapping)
 modules:
   - python
-  - sage
   - linux
+  - sage
+  - lmfdb
   - CollScientiae   # camel-case on purpose, also for testing
   - test
 
