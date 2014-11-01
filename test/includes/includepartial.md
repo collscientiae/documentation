@@ -1,4 +1,4 @@
-title: Several paragraphs for partial inclusion
+title: Partial Includes
 subtitle: Test paragraphs for partial includes
 seealso:
     includes.includeme
