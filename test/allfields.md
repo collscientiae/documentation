@@ -1,7 +1,8 @@
 title: Field Title
 subtitle: Subtitle of the Field Test Document
-authors: Harald Schilly <harald@schil.ly>
-copyright: CC-BY
+authors:
+    Harald Schilly <harald@schil.ly>
+copyright: CC-BY 4.0 Unported
 type: reference
 tags: test
 group: test
