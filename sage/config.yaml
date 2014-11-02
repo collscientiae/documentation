@@ -1,5 +1,5 @@
 name: Sage Documentation
-description: Documentation for <a href="http://www.sagemath.org/">Sage</a>.
+description: Documentation for Sage
 
 # this configuration is inserted into the global
 # space of variables for the jinja2 templating engine.

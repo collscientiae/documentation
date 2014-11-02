@@ -1,5 +1,5 @@
 # Central configuration file for the "CollScientiae" Sage Documentation
-title: CollScientiae Demo Documentation
+title: CollScientiae Demo
 version: 0.0.1
 
 # the list of modules, the ordering is retained and parts can be disabled.
