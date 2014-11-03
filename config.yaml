@@ -2,6 +2,14 @@
 title: CollScientiae Demo
 version: 0.0.1
 
+intro: |
+    <a href="http://github.org/CollScientiae">CollScientiae</a> is an experimental new
+    kind of documentation.
+    A modular collection of unsorted documentation files build a full website.
+    Content is rendered according to a template theme and it is possible to
+    cross-link throughout all modules and transclude (partial) content.
+
+
 # the list of modules, the ordering is retained and parts can be disabled (e.g. "  #- lmfdb").
 # in the future, there might be the possibility to set some configurations here
 # or to override the documentation module specific configuration.
