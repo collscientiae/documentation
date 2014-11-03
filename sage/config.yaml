@@ -1,5 +1,6 @@
 name: Sage Documentation
 description: Documentation for Sage
+icon: img/sagemath-icon.svg
 
 # this configuration is inserted into the global
 # space of variables for the jinja2 templating engine.

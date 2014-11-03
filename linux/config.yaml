@@ -2,3 +2,4 @@ name: Linux
 description: |
   General introduction to Linux
   (command-line, software & processes, files management and file-systems, ...)
+icon: img/linux-logo.svg
