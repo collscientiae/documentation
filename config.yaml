@@ -2,7 +2,7 @@
 title: CollScientiae Demo
 version: 0.0.1
 
-# the list of modules, the ordering is retained and parts can be disabled.
+# the list of modules, the ordering is retained and parts can be disabled (e.g. "  #- lmfdb").
 # in the future, there might be the possibility to set some configurations here
 # or to override the documentation module specific configuration.
 # this is useful in such a case, where the module is developed independently but
@@ -15,6 +15,9 @@ modules:
   - CollScientiae   # camel-case on purpose, also for testing
   - test
 
+# imagine, the name of a module changes (or is replaced by another one)
+# then, namespace prefixes in other modules no longer work
+# here, module specific mappings of namespace prefixes can be set:
 remapping:
   test:
     { notsage : sage, alsothis: sage }
@@ -22,7 +25,7 @@ remapping:
 google_analytics: UA-5245376-10
 
 footer:
-  - title: CollScientiae
+  - title: CollScientiae Project
     href:  https://github.com/collscientiae
   - title: Sage Mathematical Software System
     href:  http://sagemath.org
