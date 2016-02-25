@@ -1,0 +1,9 @@
+name: SageMathCloud
+description: Documentation for SageMathCloud
+icon: img/sagemathcloud-icon.svg
+
+# this configuration is inserted into the global
+# space of variables for the jinja2 templating engine.
+
+smc: SageMathCloud
+smc_url: https://cloud.sagemath.com

@@ -19,7 +19,8 @@ modules:
   - python
   - linux
   - sage
-  - lmfdb
+#  - lmfdb
+  - smc
   - CollScientiae   # camel-case on purpose, also for testing
   - test
 
