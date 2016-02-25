@@ -5,5 +5,6 @@ icon: img/sagemath-icon.svg
 # this configuration is inserted into the global
 # space of variables for the jinja2 templating engine.
 
-sage: Sage Mathematical Software System
+sage: SageMath
+sage_long: Sage Mathematical Software System
 sage_url: http://www.sagemath.org
